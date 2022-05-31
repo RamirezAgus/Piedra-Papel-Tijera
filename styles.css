@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(181, 181, 247);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container h1 {
+    width: 150px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+button {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    line-height: 1.5rem;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.3rem;
+    border: 2px solid rgb(79, 79, 207);
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: rgb(28, 28, 204);
+    color: white;
+}
+
+#juego {
+    background-color:rgb(79, 79, 207);
+    width: 350px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: 0px 5px 4px 3px rgba(1, 2, 8, 0.1);
+}
+
